@@ -1,10 +1,10 @@
-# test-project
+# Vue SPA Question App Starter
 
-> A Vue.js project
+> Start Project for Vue Basic SPA
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
